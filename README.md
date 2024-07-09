@@ -56,8 +56,3 @@ Este é um programa feito em Java e Python para gerenciar clientes em um sistema
 ![Captura de tela 2024-03-24 165814](https://github.com/matheus3pires/Atividade2-ADS1231-Devops/assets/87993331/9c10b01a-ba10-4e55-8358-134ecc422376)
 ![Captura de tela 2024-03-24 170045](https://github.com/matheus3pires/Atividade2-ADS1231-Devops/assets/87993331/2a48fa40-e907-4ba5-a953-7ba8ca086d7c)
 
-
-## Minhas Redes
-Fique conectado para mais novidades e atualizações. Não hesite em entrar em contato!
- 
-- Linkedin: [linkedin.com/in/matheuspiress](https://www.linkedin.com/in/matheuspiress/)
